@@ -1,7 +1,7 @@
 === woo-mahacod-post ===
 Contributors: mp.hamid
 Donate link: http://mahacod.com/
-Tags: mahacod,mahawordpress,mahapost,cod,پرداخت درمحل,افزونه شرکت ماها,پرداخت پستی
+Tags: mahacod,mahawordpress,mahapost,cod,cash on delivery,post,iran shop,خرید پستی,پرداخت در محل,شرکت ماها,سرویس خرید پستی,حمل پست,شرکت پستی
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
